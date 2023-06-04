@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Alejandro!
-#### A-Level Student | Aspiring Software Engineer
 ![Header](https://github.com/3NJDGZ/3NJDGZ/assets/87236751/8d481e45-da1c-40ce-b360-36b5fcd9e904)
 
 
