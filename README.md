@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Alejandro!
 #### A-Level Student | Aspiring Software Engineer
-![Header](![github-header-image](https://github.com/3NJDGZ/3NJDGZ/assets/87236751/ad90953c-3dc1-4d2c-8244-b471e3166bcb))
+![Header](https://github.com/3NJDGZ/3NJDGZ/assets/87236751/8d481e45-da1c-40ce-b360-36b5fcd9e904)
+
 
 At the moment, I'm working hard on my A Levels in Mathematics, Physics, and Computer Science. My aspirations revolve around becoming a software engineer in the future.
 
