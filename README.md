@@ -1,4 +1,4 @@
-![Header](https://github.com/3NJDGZ/3NJDGZ/assets/87236751/93fdc123-7eb4-4eb5-a131-786283cdb4c5)
+![github-header-image](https://github.com/3NJDGZ/3NJDGZ/assets/87236751/b870c7b2-73ee-4bb8-b93e-8e42a59e3642)
 
 At the moment, I'm working hard on my A Levels in Mathematics, Physics, and Computer Science. My aspirations revolve around becoming a software engineer in the future.
 
