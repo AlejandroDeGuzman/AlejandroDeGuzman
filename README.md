@@ -4,4 +4,3 @@ At the moment, I'm working hard on my A Levels in Mathematics, Physics, and Comp
 
 Skills: Python / MySQL / C / HTML / CSS
 
-- 🔭 I’m currently working on my A-Level Computer Science Project (NEA)
