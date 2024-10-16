@@ -4,7 +4,7 @@
 
 ## 🔧 Technical Skills
 - **Languages**: Python, C, Java, MySQL, HTML, CSS
-- **Frameworks & Libraries**: Flask, Pygame, SQLAlchemy, SQLite
+- **Frameworks & Libraries**: Flask, Pygame, SQLAlchemy, SQLite, Bootstrap
 - **Version Control**: Git, GitHub
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 
