@@ -4,6 +4,6 @@
 
 ## 🌟 Let's Connect!
 Feel free to reach out via:
-- **Email**: 3njdeguzman@gmail.com
+- **Email**: alejandrodeguzman@proton.me
 - **[LinkedIn](https://www.linkedin.com/in/alejandro-de-guzman-14317724a/)**
 
