@@ -3,8 +3,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDeGuzman&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 # about...
 
-- Programming HTTP Web Server and Parser from scratch using C.
-- Creating a multiplayer turn based tank game on the web.
-- Hobbies: Bouldering, Running, Gym, Origami, Football, Tennis, Table Tennis.
+* Programming an HTTP web server, parser, and simple DBMS from scratch in C.
+* Creating a multiplayer turn-based tank game for the web.
+* Hobbies: bouldering, running, gym, origami, football, tennis, table tennis.
+
 
 
