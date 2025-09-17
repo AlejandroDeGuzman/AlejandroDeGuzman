@@ -6,7 +6,7 @@
 
 * Programming an HTTP web server, parser, and simple DBMS from scratch in C.
 * Creating a multiplayer turn-based tank game for the web.
-* Hobbies: bouldering, running, gym, origami, football, tennis, table tennis, gaming.
+* Hobbies: bouldering, running, gym, origami, football, tennis, table tennis.
 
 
 
