@@ -4,9 +4,9 @@
 ![AlejandroDeGuzman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDeGuzman&theme=tokyonight&hide_border=true)
 # about...
 
-* Programming an HTTP web server, parser, and simple DBMS from scratch in C.
+* Programming a Database Engine from scratch in C.
 * Creating a multiplayer turn-based tank game for the web.
-* Hobbies: bouldering, running, gym, origami, football, tennis, table tennis.
+* Hobbies: bouldering, gym, origami, football, tennis, table tennis.
 
 
 
